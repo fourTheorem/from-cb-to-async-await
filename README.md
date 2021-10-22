@@ -1,5 +1,7 @@
 # from-cb-to-async-await
 
+[![Node.js CI](https://github.com/fourTheorem/from-cb-to-async-await/actions/workflows/node.js.yml/badge.svg)](https://github.com/fourTheorem/from-cb-to-async-await/actions/workflows/node.js.yml)
+
 A repository with some examples to learn how async code works in JavaScript from callbacks to promises to async/await.
 
 
