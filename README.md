@@ -16,7 +16,7 @@ npm i
 
 ## Examples
 
-### `01-simple-callback`
+### [`01-simple-callback`](/01-simple-callback.js)
 
 Shows the difference between synchronous and asynchronous code in JavaScript. It makes an HTTP request to the
 [Rick and Morty API](https://rickandmortyapi.com/) to fetch all the characters of the show.
@@ -28,7 +28,7 @@ node 01-simple-callback.js
 ```
 
 
-### `02-sequential-callbacks`
+### [`02-sequential-callbacks`](/02-sequential-callbacks.js)
 
 Shows how to organise callbacks to perform sequential asynchronous actions.
 
@@ -39,7 +39,7 @@ node 02-sequential-callbacks.js
 ```
 
 
-### `03-simple-promise`
+### [`03-simple-promise`](/03-simple-promise.js)
 
 Shows how Promise work and how to convert callback-based code to Promise.
 
@@ -50,7 +50,7 @@ node 03-simple-promise.js
 ```
 
 
-### `04-sequential-promise`
+### [`04-sequential-promise`](/04-sequential-promise.js)
 
 Shows how to organise Promise to perform sequential asynchronous actions.
 
@@ -61,7 +61,7 @@ node 04-sequential-promise.js
 ```
 
 
-### `05-simple-await`
+### [`05-simple-await`](/05-simple-await.js)
 
 Shows how to use async/await with Promise.
 
@@ -72,7 +72,7 @@ node 05-simple-await.js
 ```
 
 
-### `06-sequential-await`
+### [`06-sequential-await`](/06-sequential-await.js)
 
 Shows how easy it is to do sequential asynchronous operations with async/await.
 
