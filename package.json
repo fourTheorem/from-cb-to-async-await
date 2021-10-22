@@ -1,0 +1,35 @@
+{
+  "name": "from-cb-to-async-await",
+  "version": "1.0.0",
+  "description": "A repository with some examples to learn how async code works in JavaScript",
+  "main": "01-simple-callback.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "engineStrict": true,
+  "keywords": [
+    "learning",
+    "javascript",
+    "async/await",
+    "async",
+    "await",
+    "promise",
+    "callback"
+  ],
+  "author": "Luciano Mammino",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.1",
+    "espree": "^9.0.0"
+  }
+}
